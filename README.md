@@ -1,9 +1,8 @@
 <h2>Project title :</h2>
-<p>elite template</p>
+<p>time4learning</p>
 <h3>About the Project: 📚</h3>
-<p>A simple website for training on a grid system in bootstrap  and media queries</p>
-<h3>Live Link / Demo Link: 🔗</h3>
-<p>https://elite-template-18.netlify.app//</p>
+<p>A website application that you able to upload all educational materials on it from lectures, labs, and sections, and all students can view and download educational materials and my own work is the main page</p>
+
 <h3>Technologies Used: </h3>
 <ul>
 <li>HTML5</li>
